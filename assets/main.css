@@ -227,12 +227,21 @@ pre {
   list-style: none;
   margin-left: 0; }
 
-.c-post {
-  margin-bottom: 30px; }
-
-.c-post__title-meta {
+.c-post__meta {
   font-size: 14px;
   color: #666; }
+
+.c-post img {
+  border: 1px solid #ddd; }
+
+.c-post__separator {
+  border: 0;
+  border-top: 4px dotted #ddd;
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  max-width: 100px; }
 
 .c-social {
   padding-bottom: 5px; }
