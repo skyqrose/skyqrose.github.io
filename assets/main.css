@@ -232,7 +232,8 @@ pre {
   color: #666; }
 
 .c-post img {
-  border: 1px solid #ddd; }
+  border: 1px solid #ddd;
+  display: block; }
 
 .c-post__separator {
   border: 0;
@@ -288,3 +289,6 @@ pre {
 .m-post-list__meta {
   font-size: 14px;
   color: #666; }
+
+.p-station-maps__list-item {
+  margin-bottom: 1rem; }
